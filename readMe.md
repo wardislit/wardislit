@@ -1,27 +1,27 @@
-# Hi there, I'm wardislit 👋
+# Hi there, I'm Ward. 👋
 
 🎓 **Student & Aspiring Indie Developer**  
 I'm on a journey of self-learning, building indie projects, and turning ideas into reality—one line of code at a time.
 
 ## ⚡ What I Do
 - Learning to independently accomplish awesome indie projects
-- Experimenting with code to create engaging experiences
+- Creating indie projects either for fun and myself :>
 
 ## 🛠️ Skills
 - **Java** (my strongest language)
 - **C++** (decent, always learning more!)
+- **Python** (A bit since I study pyQt for a while)
 - Exploring game development and creative programming
 
 ## 🚀 Featured Project
 **ProjectRPG**  
 Currently in development—my main playground for learning and building game mechanics.  
-- [ProjectRPG-core](https://github.com/wardislit/ProjectRPG-core)
-- [ProjectRPG-lwjgl3](https://github.com/wardislit/ProjectRPG-lwjgl3)
+- [ProjectRPG-game](https://github.com/wardislit/ProjectRPG-game)
 
 Other repositories:
-- [guess-game-cpp](https://github.com/wardislit/guess-game-cpp)
+- [guess-game-cpp, a self-assessment work](https://github.com/wardislit/guess-game-cpp)
 - [1F-websites](https://github.com/wardislit/1F-websites)
-- [Hotel-v2](https://github.com/wardislit/Hotel-v2)
+- [Hotel Management](https://github.com/wardislit/Hotel-v2)
 
 ## 🎮 Hobbies
 - Gaming—where I find inspiration and relaxation!
